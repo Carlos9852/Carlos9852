@@ -1,4 +1,4 @@
-### Olá! sou o Carlos Daniel, estudante e técnico em mecatrônica.
+### Olá! sou o Carlos Daniel.
 
 <!--
 **Carlos9852/Carlos9852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
