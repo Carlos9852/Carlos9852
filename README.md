@@ -10,6 +10,8 @@
 
 ###
 
+<!--
 <img src="https://raw.githubusercontent.com/Carlos9852/Carlos9852/output/snake.svg" alt="Snake animation" />
+-->
 
 ###
