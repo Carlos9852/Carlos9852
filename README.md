@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos9852)](https://github.com/Carlos9852/github-readme-stats)
-<!--
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos9852)](https://github.com/Carlos9852/github-readme-stats)-->
+
 <div align="center">
   <a href="https://github.com/Carlos9852">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Carlos9852&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -48,4 +48,3 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/Carlos9852/Carlos9852/blob/output/github-contribution-grid-snake.svg)
  
 </div>
--->
