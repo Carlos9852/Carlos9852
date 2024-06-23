@@ -1,4 +1,20 @@
-<h2 align="left">Stats</h2>
+<h2 align="left">Hi there, welcome to my Github profile</h2>
+
+###
+
+<p align="left">- My name is Carlos Nunes and i'm a C++ and Python Developer, from PR, Brazil 🇧🇷</p>
+
+###
+
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">- Mecatronics Technician at IFPR<br>- Electrical Engineering student<br>- Mechanical designer of road equipment</p>
+
+###
+
+<h2 align="left">My Stats</h2>
 
 ###
 
@@ -7,11 +23,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos9852&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false&order=2" height="160" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlos9852&radius=16&theme=gruvbox&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<!--
-<img src="https://raw.githubusercontent.com/Carlos9852/Carlos9852/output/snake.svg" alt="Snake animation" />
--->
 
 ###
